@@ -1,3 +1,7 @@
+## Parcours français
+
+Un parcours en huit chapitres consacré à l’architecture, aux adaptateurs, aux limites de risque et aux sorties de Vault V2 est disponible dans [`docs/fr/`](docs/fr/).
+
 # Vault V2
 
 Vaults V2 enables anyone to create [non-custodial](#non-custodial-guarantees) vaults that allocate assets into different markets.
